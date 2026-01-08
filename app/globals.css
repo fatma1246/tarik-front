@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+::placeholder{
+     font-family: "ABeeZee";
+     font-size: 16px;
+}
+
+input{
+     font-family: "ABeeZee";
+}
+
+
+.ellipse1{
+    height: 677px !important;
+}
